@@ -10,7 +10,7 @@
 
 <h4 align="center">
   <a href="mailto:kimminje7810@gmail.com">Contact</a>
-  | <a href="https://billdream.vercel.app">Homepage</a>
+  | <a href="https://www.billdream.com">Homepage</a>
 </h4>
 
 <br />
